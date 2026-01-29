@@ -1,0 +1,21 @@
+a {
+    display: block;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    border: 2px solid black;
+    margin-bottom: 2px;
+    border-radius: 6px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: tomato;
+
+}
+
+a:hover {
+    background-color: red;
+    font-size: 32px;
+}
